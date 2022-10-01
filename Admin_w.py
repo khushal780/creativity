@@ -50,6 +50,7 @@ def bill_create():
 
     e = Label(header, font = ('Arial', 15), bg = '#aa92fa', fg = 'purple')
     e.pack(side=TOP)
+    print("khushal")
 
 
     #frame for str and buttons
