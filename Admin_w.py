@@ -221,9 +221,6 @@ def bill_create():
 
 
 
-    #frame for footer
-    footer = LabelFrame(root2,borderwidth=0,bg="#aa92fa",fg="black")
-    footer.pack(side=BOTTOM)
 
 
 
