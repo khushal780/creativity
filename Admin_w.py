@@ -8,6 +8,7 @@ from time import strftime
 from display_p3 import bill_dis
   
 #main_w()
+print("khushal")
 
 #button image
 def bill_create():
