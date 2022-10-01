@@ -28,6 +28,7 @@ def bill_create():
     root2.geometry("1350x700+0+0")
     root2.iconbitmap("fevicon1.ico")
     root2.configure(background='#aa92fa')
+    print("hi)
 
     def logout():
         root2.destroy();
